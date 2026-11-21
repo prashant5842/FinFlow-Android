@@ -8,15 +8,15 @@ This repository contains the signed Android release package only; it does not co
 
 ## Download
 
-[Download the latest FinFlow 1.1 APK for Android](./FinFlow-1.1.apk)
+[Download the latest FinFlow 1.2 APK for Android](./FinFlow-1.2.apk)
 
-- Version: `1.1` (`versionCode` 2)
+- Version: `1.2` (`versionCode` 3)
 - Package: `com.finflow.mobile`
 - Minimum Android version: Android 7.0 (API 24)
-- SHA-256: `9C23FD286A9C0A0399E602B7F6AA7001F1872B32193D05B85E24680388A6D1C1`
+- SHA-256: `983D87842ACE3DE2597DD15AE94FF45D63B6DF1A1CC65C98C74F06382680019E`
 
-The checksum is also available in [`FinFlow-1.1.apk.sha256`](./FinFlow-1.1.apk.sha256).
-The [previous 1.0 release](./FinFlow-1.0.apk) is retained here.
+The checksum is also available in [`FinFlow-1.2.apk.sha256`](./FinFlow-1.2.apk.sha256).
+Previous releases [1.1](./FinFlow-1.1.apk) and [1.0](./FinFlow-1.0.apk) are retained here.
 
 ## Install
 
